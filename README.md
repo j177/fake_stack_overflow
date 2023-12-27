@@ -14,7 +14,7 @@ on both client and server -> npm start
 
 
 Demo: Created with ScreenToGif
-<img src= https://i.imgur.com/PSRP4eb.mp4/>
+[https://i.imgur.com/PSRP4eb.mp4](https://imgur.com/PSRP4eb)
 
 ## Team Member 1 Contribution
 Joice Fan- use cases 1-7
